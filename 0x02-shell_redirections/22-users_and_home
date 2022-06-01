@@ -1,2 +1,0 @@
-#!/bin/bash
--d':' -f1,6 /etc/passed | sort
